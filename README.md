@@ -52,7 +52,7 @@ We combine certified AWS Cloud Engineers and Cybersecurity Experts with business
 ## 📚 Getting Started
 1. **Clone** any starter template:  
    ```bash
-   git clone https://github.com/DevITCloud/REPO_NAME.git
+   git clone https://github.com/Dev-IT-Cloud/REPO_NAME.git
    ```
 
 2. **Explore** our service-specific repositories for your use case
